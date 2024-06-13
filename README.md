@@ -14,5 +14,5 @@
 -if creating a database for future, VLOOKUP fction can be used
 
 ## TO-DO-LIST 
-- create column C as tags for ANKI, using the same tag for each row
+- create column C as tags for ANKI, using the same tag for each row indicated as input
 - input(default_and_target_language)
