@@ -4,9 +4,13 @@
 
 ## Use
 -machine translation of vocabulary lists from Latin for healthcare students/students of Interpreting and Translating
+
 -efficiency ~90% minimal halucinations and corrections needed
+
 -.csv directly uploadable to ANKI upon corrections
+
 -significant time saved as opposed to doing manually
+
 -if creating a database for future, VLOOKUP fction can be used
 
 ## TO-DO-LIST 
