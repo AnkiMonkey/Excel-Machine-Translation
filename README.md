@@ -5,9 +5,9 @@
 ## Use
 -machine translation of vocabulary lists from Latin for healthcare students/students of Interpreting and Translating
 
--efficiency ~90% minimal halucinations and corrections needed
+-minimal halucinations and corrections needed
 
--.csv directly uploadable to ANKI upon corrections
+-.csv directly uploadable to ANKI upon corrections (e.g. front+back+tag)
 
 -significant time saved as opposed to doing manually
 
