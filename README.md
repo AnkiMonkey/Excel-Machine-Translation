@@ -1,4 +1,10 @@
 # Excel-Machine-Translation 
+
+<p align="center">
+  <img src="main_window.png" width="400">
+</p>
+
+
 - python file translating vocabulary from langauge A to language B processing the vocabulary in csv (encoding UTF-8)
 - final .csv file ready to upload to ANKI (column A as front, column B as back)
 
